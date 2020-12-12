@@ -1,0 +1,123 @@
+[
+    
+    {
+        "QorL":"Q",
+        "question":"In majority of higher animals and plants,_______ and _______ are mutually exclusive events.",
+        "options":
+        [
+            "growth, nutrition",
+            "nutrition, consciousness",
+            "growth, reproduction",
+            "reproduction; consciousness"
+        ],
+        "correctAns": "growth, reproduction"
+    },
+    {
+        "QorL":"Q",
+        "question":"The sum total of all the chemical reactions occurring in our body is known as",
+        "options":
+        [
+            "Metabolism",
+            "Growth",
+            "Regeneration",
+            "reproduction"
+        ],
+        "correctAns": "Metabolism"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which of the following term is used to refer the number of varieties of plants and animals on earth ?",
+        "options":
+        [
+            "Taxonomy",
+            "Identification",
+            "Biodiversity",
+            "Classification"
+        ],
+        "correctAns": "Biodiversity"
+    },
+    {
+        "QorL":"Q",
+        "question":"Which is not a property of living being?",
+        "options":
+        [
+            "Metabolism",
+            "Decay",
+            "Growth",
+            "Reproduction"
+        ],
+        "correctAns": "Decay"
+    },
+    {
+        "QorL":"Q",
+        "question":"A particular plant is strictly seasonal plant. Which one of the following is best suited if it is to be studied in the laboratory?",
+        "options":
+        [
+            "Herbarium",
+            "Museum",
+            "Botanical garden",
+            "Flower exhibition"
+        ],
+        "correctAns": "Herbarium"
+    },
+    {
+        "QorL":"Q",
+        "question":"A group of students found two cockroaches in the classroom. They had a debate whether they are alive or dead. Which life property will help them to do so?",
+        "options":
+        [
+            "Metabolism",
+            "Growth",
+            "Irritability",
+            "Reproduction"
+        ],
+        "correctAns": "Metabolism"
+    },
+    {
+        "QorL":"Q",
+        "question":"Herbarium is a",
+        "options":
+        [
+            "garden where medicinal plants are grown.",
+            "garden where herbaceous plants are grown.",
+            "dry garden.",
+            "chemical to kill plants."
+        ],
+        "correctAns": "dry garden."
+    },
+    {
+        "QorL":"Q",
+        "question":"The famous botanical garden ‘Kew’ is located in",
+        "options":
+        [
+            "England",
+            "Lucknow",
+            "Berlin",
+            "Australia"
+        ],
+        "correctAns": "England"
+    },
+    {
+        "QorL":"Q",
+        "question":"In printed scientific names, only the ________ is capitalized.",
+        "options":
+        [
+            "class",
+            "species",
+            "genus",
+            "family"
+        ],
+        "correctAns": "genus"
+    },
+    {
+        "QorL":"Q",
+        "question":"ICBN stands for",
+        "options":
+        [
+            "International Code of Botanical Nomenclature",
+            "International Congress of Biological Names",
+            "Indian Code of Botanical Nomenclature",
+            "Indian Congress of Biological Names"
+        ],
+        "correctAns": ""
+    }
+]
